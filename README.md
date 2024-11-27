@@ -26,10 +26,14 @@ Outcomes
 
 >Scalable Solution: Develop a solution that can scale to handle large datasets and varying demand patterns across multiple products.
 
-Milestone 1: Week 1 
-Module 1: Data Collec=on 
-• Understand the problem statement 
+Milestone 1: Week 1
+
+Module 1: Data Collec=on
+
+• Understand the problem statement
+
 • Gather sales data from relevant sources (database, store records) 
+
 • Collect Google Analy5cs and Facebook Impressions data 
 
 
