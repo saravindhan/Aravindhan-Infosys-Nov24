@@ -1,7 +1,3 @@
-Here is the revised and formatted version of your README content:  
-
----
-
 # FutureCart: AI-Driven Demand Prediction for Smarter Retail  
 
 ## Project Statement  
@@ -82,7 +78,3 @@ In the realm of e-commerce, demand forecasting plays a pivotal role in ensuring 
 
 ### 5. Project Presentation & Documentation  
 Prepare and present the project with clear documentation, including model insights, evaluations, and recommendations for implementation.  
-
----
-
-This README provides an overview of the project's objectives, outcomes, and step-by-step milestones.
